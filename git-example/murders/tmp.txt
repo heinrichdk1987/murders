@@ -1,0 +1,13 @@
+temporary >> tmp.txt
+ echo temporary >> tmp.txt
+
+
+
+
+git status
+ dfgdf
+
+git status
+ echo temporary
+temporary
+temporary

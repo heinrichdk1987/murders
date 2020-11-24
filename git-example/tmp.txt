@@ -1,0 +1,7 @@
+temporary >> tmp.txt
+echo temporary >> tmp.txt
+git add new-file.txt
+git status
+
+echo temporary
+temporary
